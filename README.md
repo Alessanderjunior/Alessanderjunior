@@ -1,7 +1,7 @@
 
 
 
-- 🔭 I’m currently working on improve my python Skills for ETL Process and Data Engineering
+- 🔭 Data Engineer with 6 years of experience. 
 
 
  <div>
